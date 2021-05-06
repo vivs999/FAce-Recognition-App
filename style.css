@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(14, 226, 226);
+    color:darkcyan;
+    font-family: 'Patrick Hand', cursive;
+}
+#people{
+font-size: 20px;
+}
+label{
+    font-size: 22px;
+    font-weight: 400;
+}
